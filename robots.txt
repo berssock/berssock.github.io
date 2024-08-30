@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://berssock.github.io/sitemap/sitemap.txt
